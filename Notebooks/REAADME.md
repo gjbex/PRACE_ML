@@ -11,5 +11,8 @@
 1. [`040_mnist_mlp_complete.ipynb`](040_mnist_mlp_complete.ipynb):
     illustrates data pipelines and construction of a classic multilayer
     perceptron to recognize handwritten digits.
-1. [`050_convulution_complete.ipynb`](050_convulution_complete.ipynb):
+1. [`050_convolution_complete.ipynb`](050_convolution_complete.ipynb):
     illustrates convolution as used in convolutional neural networks.
+1. [`060_mnist_cnn_complete.ipynb`](060_mnist_cnn_complete.ipynb):
+    illustrates a convolutional neural network to recognize handwritten
+    digits.
