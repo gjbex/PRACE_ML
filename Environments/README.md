@@ -5,7 +5,7 @@ installed.  This is quite painless when using
 [conda](https://docs.conda.io/en/latest/miniconda.html).
 
 The YAML environment definitions are:
-  * [`prace_ml_cpu.yaml`](prace_ml_cpu.yaml): Linux 64-bit, no GPU
+  * [`prace_ml_cpu.yml`](prace_ml_cpu.yml): Linux 64-bit, no GPU
 
 
 ## How to install?
@@ -14,7 +14,7 @@ The YAML environment definitions are:
    Python 3.7 and your operating system.
 1. Follow the installation instructions provided by 
 1. To install and environment using one of the YAML files above, use: 
-   `$ conda env create -f <yaml-file-name>
+   `$ conda env create -f <yaml-file-name>`
 
 ## How to use?
 

@@ -1,4 +1,5 @@
 # Notebooks
 
-1. `underfitting_overfitting.ipynb`: illustrates the concepts of underfitting and
-    and overfitting using non-linear regression.
+1. [`underfitting_overfitting.ipynb`](underfitting_overfitting.ipynb):
+    illustrates the concepts of underfitting and and overfitting using
+    non-linear regression.
