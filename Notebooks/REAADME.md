@@ -5,4 +5,7 @@
     non-linear regression (complete notebook with output).
 1. [`020_mnist_data_exploration_complete.ipynb`](020_mnist_data_exploration_complete.ipynb):
     exploring the MNIST data set (complete notebook with output).
+1 [`030_activation_function_complete.ipynb`](030_activation_function_complete.ipynb):
+    visualization of the relevant activation functions (complete notebook with
+    output)..
 
