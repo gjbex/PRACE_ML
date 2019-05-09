@@ -7,7 +7,9 @@ https://github.com/gjbex/training-material
 
 ## What is it?
 
-  * `prace_days_ml_2019.pptx`: Powerpoint presentation for the turorial.
-  * `Notebooks`: the notebooks used in this tuturial, as  well as extra
-    material.
-  * `Environments`: environment defitions required to run the notbooks.
+  * [`prace_days_ml_2019.pptx`](prace_days_ml_2019.pptx):
+    Powerpoint presentation for the turorial.
+  * [`Notebooks`](Notebooks/): the notebooks used in this tuturial, as
+    well as extra material.
+  * [`Environments`](Environments/): environment defitions required to
+   run the notbooks.
