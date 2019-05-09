@@ -7,6 +7,6 @@ https://github.com/gjbex/training-material
 
 ## What is it?
 
-  1. `Notebooks`: the notebooks used in this tuturial, as  well as extra
+  * `Notebooks`: the notebooks used in this tuturial, as  well as extra
     material.
-  1. `Environments`: environment defitions required to run the notbooks.
+  * `Environments`: environment defitions required to run the notbooks.
