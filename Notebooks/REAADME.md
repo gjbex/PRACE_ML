@@ -8,4 +8,7 @@
 1 [`030_activation_function_complete.ipynb`](030_activation_function_complete.ipynb):
     visualization of the relevant activation functions (complete notebook with
     output)..
+1. [`040_mnist_mlp_complete.ipynb`](040_mnist_mlp_complete.ipynb):
+    illustrates data pipelines and construction of a classic multilayer
+    perceptron to recognize handwritten digits.
 
