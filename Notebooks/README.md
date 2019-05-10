@@ -19,4 +19,6 @@
     digits (complete notebook with output).
 1. [`070_imdb_data_exploration_complete.ipynb`](070_imdb_data_exploration_complete.ipynb):
     exploring the IMDB data set (complete notebook with output).
-
+1. [`080_imdb_rnn_complete.ipynb`](080_imdb_rnn_complete.ipynb):
+    illustrates recurrent neural networks using GRU and LSTM units for
+    sentiment classification on the IMDB data set.
