@@ -4,9 +4,9 @@ To run the notebooks, quite some Python packages have to be
 installed.  This is quite painless when using
 [conda](https://docs.conda.io/en/latest/miniconda.html).
 
-The YAML environment definitions are:
+The YAML environment definitions for Linux 64-bit are:
   * [`prace_ml_cpu.yml`](prace_ml_cpu.yml): Linux 64-bit, no GPU
-
+  * [`prace_ml_windows.txt`](prace_ml_windows.txt): Windows 64-bit, no GPU
 
 ## How to install?
 
